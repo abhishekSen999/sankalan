@@ -10,26 +10,15 @@
 <div class="content">
     <div class="section module auto">
         <div>
-            <h3>New Events</h3>
-            <p>We introduced some new events this year in Sankalan 2019 like:</p><br/>
-            <p><strong>Blind Coding:</strong> No, it isn't related to Blind Dating. In this event, we will give you simpler problems to solve. But you're forbidden to look at your code! Can you run it in one attempt? Let's see how much confident are you
-                in your skills! See event page at: <a class="xhr" href="{{ $page->baseUrl }}/events/blind-coding/" target="_blank">https://ducs.in/sankalan/events/blind-coding/</a></p><br/>
-            <p><strong>Quriosity:</strong> In this event, we will give you a knowledgeable prime-time. Every night at 10pm, before Sankalan, we will post a simple question or a puzzle for you to answer. The player who tops the leaderboard at the end wins
-                the game. See event page at: <a class="xhr" href="{{ $page->baseUrl }}/events/quriosity/" target="_blank">https://ducs.in/sankalan/events/quriosity/</a></p><br/>
-            <p><strong>Beg Borrow Steal:</strong> In this fun game you can win exciting prizes by begging, borrowing or stealing things. Each participant will be given an item in each round, they have to either beg it, borrow it or steal it. See event page
-                at: <a class="xhr" href="{{ $page->baseUrl }}/events/beg-borrow-steal/" target="_blank">https://ducs.in/sankalan/events/beg-borrow-steal/</a></p><br/>
-            <p><strong>Cypher-o-more</strong> An event for crypto heads! (Not limited to crypto-currencies). See event page at: <a class="xhr" href="{{ $page->baseUrl }}/events/cypher-o-more/" target="_blank">https://ducs.in/sankalan/events/cypher-o-more/</a></p><br/>
-            <p><strong>Pictionary:</strong> In this fun-learn event, you will be given a word from any domain, and will be required to explain that, by drawing anything related to the same on the board, to the audience in a time span of 2 minutes. See event
-                page at: <a class="xhr" href="{{ $page->baseUrl }}/events/pictionary/" target="_blank">https://ducs.in/sankalan/events/pictionary/</a></p><br/>
-            <p>There are some more fun and short events which you can explore at the Sankalan itself.</p><br/>
-            <p>We merged Java Juggling and Code-a-thon to a single event, Code-a-thon, which is now language independent. See event page at: <a class="xhr" href="{{ $page->baseUrl }}/events/code-a-thon/" target="_blank">https://ducs.in/sankalan/events/code-a-thon/</a></p><br/>
-            <p>The problems in each event, are of course, new.</p>
-        </div>
+            <h3>New Event</h3>
+            <p>We added a new angel to our tech fest with event like:</p><br/>
+            <p><strong>अल्फ़ाज़ aur जज़्बात:</strong> This year we made an effort to amalgamate tech with culture. Here we bring to you the very first Poetry event of Sankalan 2019, <a class="xhr" href="{{ $page->baseUrl }}/events/alfaaz-aur-jazbaat/" target="_blank">alfaaz aur jazbaat</a>. We went on to collaborate with <a class="xhr" href="https://www.youtube.com/channel/UCeMecwNIJrd_kyw_6fKgmqw/featured" target="_blank"><b>Social House</b></a>, the one-of-its-kind youtube channel with more than a million subscribers. Best part is, The Winner will get a chance to be featured on India's most subscribed poetry and storytelling YouTube channe. We are really enthusiastic about this event, hope you are too. </p><br/>
+            </div>
     </div>
     <div class="section module auto">
         <div>
             <h3>Registration process</h3>
-            <p>We created a brand new <a href="#">registration portal</a>(link will be active soon) for Sankalan 2019 participation & Online Quizzing. No, we are not using Google Forms (nothing wrong in that).</p>
+            <p>We created a brand new event's portal(link will be active soon) for Sankalan 2019 participation & Online Quizzing. No, we are not using Google Forms (nothing wrong in that).</p>
             <p>We made registration process really simple, for you, and for us (not necessarily for our developers).</p><br/>
             <p>In almost every fest, you register using a form. Most of times, they ask you for very useless and repetitive info. Our dashboard will ask you for only to required details, to the point. We'll even fill some info about you if we can get it
                 ;)</p><br/>
