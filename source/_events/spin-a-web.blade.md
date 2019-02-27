@@ -1,7 +1,7 @@
 ---
 extends: _layouts.event
 section: event-details
-title: Spin-a-Hack
+title: Spin-a-Web
 quote:
     text: Come,Code,Develop!!
 description:  |-
@@ -12,7 +12,7 @@ islive: false
 isover: false
 isnontech: false
 tag: Web Development
-image: /assets/images/events/spin-a-hack.png
+image: /assets/images/events/spin-a-web.png
 teamSize: 2
 lang: js
 rounds:
